@@ -40,7 +40,7 @@ body {
   line-height: 1.25;
   display: grid;
   grid-template-columns: 17% 1fr;
-  background-color: #cdd9fe;
+  background-color: #e6ecff;
 }
 
 ol,
@@ -113,7 +113,7 @@ a:hover {
 
 code {
   font-family: "Roboto Mono", monospace;
-  background-color: #b4c7fe;
+  background-color: #cdd9fe;
   padding: 0.2rem 0.4rem;
 }
 
